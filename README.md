@@ -1,3 +1,4 @@
-# gjmf.github.io
-Graham Freeman's portfolio+project web site site.
+# graham-freeman.info
+Graham Freeman's portfolio+project web site.
+
 Contact: graham@nerdventures.com
