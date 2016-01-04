@@ -1,9 +1,12 @@
 language: ruby
 rvm:
-  - 2.1
+- 2.1
 script:
-  - bundle exec jekyll build
-  - bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html
+- bundle exec jekyll build
+- bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html
 env:
   global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+notifications:
+  slack:
+    secure: nbfmVjoYzj1b+xfUmpgW/yJXCbm6ZSOIo80I842bqAVBAheyL2TKgF9u3KlIjyDVHa1i19jgyzNDP9UCyOhhXndfL4KfDl+9fR71MNFENM3sAoX6cg6r1uwMZSs/ztAQcomYALDW3Zt8da5j8OStwDpW5QQzlBdflq+bYZeszmtTz1fqbnK1H773IMqROvhbJio8bYgh2D6kkU18UfpcuD9s2S/glBweTOcgrkPDW9QyfjiJjl8IFoagTUzdNV+TQkr7W1Njo2SCiRkdvV773yRBbzz9R6XnK8QlQXwx0I5z6HCWQe+SmcdnTmqBr7pmg0iMql1iYTGhth31JAbnyqNsjFx940xXIjNq7WMC9TabZ5FIYiGi/NVD/z3nxU8cYajpa3cZ3icEnAx34gIoyq3pTfQV95fcE96O0EZSs44MO2817L8SEf9Q1IoYov0i0D3o3cua8w0QRggXWx8Roa+IQXjjjtf+p0Wg2ux5bYNdqSeZvDost/ZgmNVG1Odexa83mc592FHkosDaNOs9oKSCUIsBTVukVBhiILxfOAVJTw7vFkYlSAMuCyfAOkzPtaxVWg7RW3Ix0WcEQw3IxMASYsIMz+Jc2TMQsBd/OQKq16Ww37Cxm1Y5h4URwH0hFQ+2khDKVzvQzkXOU4ip6po7Fij3S2VsZ+jo2R3v0rc=
