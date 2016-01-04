@@ -1,9 +1,10 @@
 # Site settings
-title: Looking Beyond Tomorrow
+title: Graham Freeman - Looking Beyond Tomorrow
 email: graham@jahiel.net
+tel: 1-510-898-6772
 description: > # this means to ignore newlines until "baseurl:"
   Thinking long-term. Also, some irreverence.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://graham-freeman.info" # the base hostname & protocol for your site
 twitter_username: gjmf
 github_username:  gjmf

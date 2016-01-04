@@ -1,3 +1,5 @@
 .DS_Store
 .brackets.json
 *DRAFT.markdown
+_site
+.sass-cache
