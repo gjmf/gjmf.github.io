@@ -3,3 +3,4 @@
 *DRAFT.markdown
 _site
 .sass-cache
+Gemfile.lock
