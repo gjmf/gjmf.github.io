@@ -3,6 +3,9 @@ layout: post
 title:  "Sailboat campout"
 date:   2014-01-01 19:30:00
 categories: sailboat camping
+tags:
+ - sailboat
+ - camping
 ---
 
 Campout on the good ship Dark Star, before she was permanently moored 20 miles inland.
