@@ -13,3 +13,6 @@ github_username:  gjmf
 markdown: kramdown
 
 exclude: [vendor]
+
+gems:
+  - jekyll-sitemap
