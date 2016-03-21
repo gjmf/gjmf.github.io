@@ -1,8 +1,10 @@
 language: ruby
+sudo: required
 rvm:
 - 2.1
 script:
 - bundle exec jekyll build
+- sudo bundle install htmlproof
 - bundle exec htmlproof ./_site --only-4xx
 env:
   global:
