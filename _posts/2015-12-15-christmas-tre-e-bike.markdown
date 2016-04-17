@@ -11,4 +11,4 @@ tags:
 
 Christmas tree via e-bike, using a second cargo trailer.
 
-![photo of Christmas tre-e-bike](/images/christmas-tre-e-bike-dec-2015.jpg)
+![photo of Christmas tre-e-bike](https://dist.graham-freeman.info/images/christmas-tre-e-bike-dec-2015.jpg)
