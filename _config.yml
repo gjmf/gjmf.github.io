@@ -1,5 +1,5 @@
 # Site settings
-title: Graham Freeman
+title: Graham Freeman - SuperNerdDad in California
 email: graham@jahiel.net
 tel: +1-510-560-7900
 description: > # this means to ignore newlines until "baseurl:"
@@ -7,7 +7,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://graham-freeman.info" # the base hostname & protocol for your site
 twitter_username: gjmf
-github_username:  gjmf
+github_username: gjmf
+author:
+  twitter: gjmf
 
 # Build settings
 markdown: kramdown
@@ -16,3 +18,5 @@ exclude: [vendor]
 
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
