@@ -2,7 +2,7 @@
 layout: post
 title:  "Christmas tre-e-bike"
 date:   2015-12-15 10:30:00
-categories: tree e-bike bicycle
+categories: photoblog
 tags:
  - tree
  - e-bike

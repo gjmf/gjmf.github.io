@@ -2,7 +2,7 @@
 layout: post
 title:  "Sailboat campout"
 date:   2014-01-01 19:30:00
-categories: sailboat camping
+categories: photoblog
 tags:
  - sailboat
  - camping

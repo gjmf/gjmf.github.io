@@ -2,7 +2,7 @@
 layout: post
 title:  "Kayaks in Jenner"
 date:   2015-12-30 10:30:00
-categories: kayaks coast
+categories: photoblog
 tags:
  - kayaks
  - coast

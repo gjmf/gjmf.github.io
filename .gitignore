@@ -2,5 +2,6 @@
 .brackets.json
 *DRAFT.markdown
 _site
+_posts-DRAFTS
 .sass-cache
 Gemfile.lock
