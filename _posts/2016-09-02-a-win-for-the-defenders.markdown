@@ -30,6 +30,6 @@ Lessons I (re-)learned from this event:
   The approach that seems to work at Stanford is to require university MDM on any endpoint which may be used to access sensitive data, interpreted very broadly.  The MDM can then track, alert on, and enforce settings such as device encryption, screen lock, OS patching, and the like.
 
 
-By the way, if I had to pick just one resource for high-quality time-efficient security insights, it would be [O'Reilly's Security Podcast](https://www.oreilly.com/topics/oreilly-security-podcast). I'd love to know what you find similarly worthwhile.
+By the way, if I had to pick just one resource for high-quality time-efficient security insights, it would be [O'Reilly's Security Podcast](https://www.oreilly.com/topics/oreilly-security-podcast). The [Root Access Podcast](https://rootaccesspodcast.com/) from OpenDNS is also great.  I'd love to know what you find similarly worthwhile.
 
 Hope you're well!  (and fully patched on a secure platform!)
