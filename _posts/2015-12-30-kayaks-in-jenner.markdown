@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Kayaks in Jenner"
+title:  "Photo: Kayaks in Jenner"
 date:   2015-12-30 10:30:00
-categories: photoblog
+categories: photo-blog
 tags:
- - kayaks
- - coast
+ - [kayaks, coast]
 ---
 
 Kayaks in Jenner, California, on my way up the coast in late December 2015.
