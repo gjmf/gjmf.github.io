@@ -11,12 +11,11 @@ Summary
 
 This is what I recommend for personal electronic security in the US in 2017.
 
-Use the one best product for a particular function,
-
-* Phone: iPhone
-* Desktop or laptop: Mac
-* Email: Gmail
-* Web browser: Chrome with [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) ad-blocking
+* Use the one best product for a particular function,
+  * Phone: iPhone
+  * Desktop or laptop: Mac
+  * Email: Gmail
+  * Web browser: Chrome with [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) ad-blocking
 * Evaluate each for possible replacement every 2-3 years,
 * Enable automatic software updates,
 * Use web-based services (do use Google Drive or Office365) rather than locally-installed software (don’t use Microsoft Office) whenever feasible,
