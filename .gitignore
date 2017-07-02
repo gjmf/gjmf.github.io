@@ -5,3 +5,5 @@ _site
 _posts-DRAFTS
 .sass-cache
 Gemfile.lock
+*.swp
+*.swo
