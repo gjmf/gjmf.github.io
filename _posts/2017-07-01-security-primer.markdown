@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Security: A primer for everyday security online."
-date:   2017-07-01 13:30:00
+date:   2017-07-01 14:30:00
 categories: tech-blog
 tags:
  - infosec
@@ -9,7 +9,7 @@ tags:
 
 Summary
 
-This is what I recommend for personal electronic security in the US in 2017.
+This is what I recommend for personal electronic security in the US in 2018.
 
 * Use the one best product for a particular function,
   * Phone: iPhone
