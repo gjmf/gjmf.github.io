@@ -36,7 +36,4 @@ This is what I recommend for personal electronic security in the US in 2018.
   * ([How to avoid social engineering and phishing attacks](https://www.us-cert.gov/ncas/tips/ST04-014). See also [this guide](https://ssd.eff.org/en/module/how-avoid-phishing-attacks).)
 * And always ensure your software is up to date.
 
-The [full document](https://docs.google.com/document/d/1Y5OgBuAiKUq95pqjyyEhLXlnjuREaqwwMyLs6PBAtlE/pub) follows:
-
-<iframe src="https://docs.google.com/document/d/1Y5OgBuAiKUq95pqjyyEhLXlnjuREaqwwMyLs6PBAtlE/pub?embedded=true" seamless width="80%" height="900" align="middle"></iframe>
-
+The [full document](https://docs.google.com/document/d/1Y5OgBuAiKUq95pqjyyEhLXlnjuREaqwwMyLs6PBAtlE/pub) is also available.
