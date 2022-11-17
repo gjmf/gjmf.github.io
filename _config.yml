@@ -3,7 +3,7 @@ title: Graham Freeman - SuperNerdDad
 email: graham@jahiel.net
 tel: +1-831-331-8859
 description: > # this means to ignore newlines until "baseurl:"
-  <a href=https://looking-beyond-tomorrow.org/ target=_blank>Thinking long-term</a>. Also, some <a href=https://xkcd.com/288/ target=_blank>irreverence</a>.
+  <a href=https://looking-beyond-tomorrow.org/ target=_blank>Thinking long-term</a>. Also, some <a href=https://xkcd.com/288/ target=_blank>irreverence</a>. Mastodon: <a rel="me" href="https://mastodon.social/@graham_freeman">@graham_freeman@mastodon.social</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://graham-freeman.info" # the base hostname & protocol for your site
 twitter_username: gjmf
